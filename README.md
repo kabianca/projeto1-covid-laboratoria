@@ -2,7 +2,7 @@
 
 ## Certificação em Análise Dados, Laboratória e IBM 🌟
 
-Inicialmente esse projeto foi realizado completamente pelo Google Sheets, mas aqui fiz o exercício de reproduzir a análise em Python como um exercício extra no meu aprendizado da linguagem. 
+Inicialmente esse projeto foi realizado completamente pelo Google Sheets, mas aqui fiz o exercício de reproduzir a análise em Python na tentativa de desafia meu conhecimento sobre a linguagem. 
 
 ## Objetivos de Aprendizagem 📝
 * Usar gráficos básicos para resumir as informações;
